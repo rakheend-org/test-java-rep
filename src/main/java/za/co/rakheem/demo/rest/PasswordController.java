@@ -49,7 +49,7 @@ public class PasswordController {
 
         try {
             Class.forName("org.mysql.Driver");
-            Connection con = DriverManager.getConnection("jdbc:mysql//locahost:3306", "admin", "adminPass");
+            Connection con = DriverManager.getConnection("jdbc:mysql//locahost:3306", "admin", "adminPass123");
 
             if (!con.isClosed())
                 System.out.println("Connect to database successfully.");
