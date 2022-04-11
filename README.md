@@ -9,3 +9,4 @@
 #### Bruce Wayne: ***Throws Bat-Sharuken***
 #### The Flash: Can I keep this?
 #### Bruce Wayne: Sure. In your face!!
+#### The Flash: Ooh!! Batkids!
