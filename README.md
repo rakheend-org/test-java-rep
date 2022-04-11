@@ -6,3 +6,5 @@
 #### The Flash: What is your superpower?
 #### Bruce Wayne: I am Rich!
 #### The Flash: So you chose to be a BAT!?
+#### Bruce Wayne: ***Throws Bat-Sharuken***
+#### The Flash: Can I keep this?
