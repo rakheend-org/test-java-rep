@@ -8,4 +8,4 @@
 #### The Flash: So you chose to be a BAT!?
 #### Bruce Wayne: ***Throws Bat-Sharuken***
 #### The Flash: Can I keep this?
-#### Bruce Wayne: Sure.
+#### Bruce Wayne: Sure. In your face
