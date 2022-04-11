@@ -5,3 +5,4 @@
 #### Guy2: I am John Snow Too
 #### The Flash: What is your superpower?
 #### Bruce Wayne: I am Rich!
+#### The Flash: So you chose to be a BAT!?
